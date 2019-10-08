@@ -1,10 +1,12 @@
 {
   "name": "eslint-config-pilatch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "peerDependencies": {
-    "eslint-config-standard": "^12.0.0",
-    "eslint-plugin-standard": "^4.0.0"
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
   },
   "repository": "git@github.com:Pilatch/eslint-config-pilatch.git"
 }
